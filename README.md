@@ -44,6 +44,12 @@ plt.title("Moderate Negative Skew")
 plt.show()
 ```
 ![image](https://github.com/imthiyas19/ODD2023-Datascience-Ex06/assets/120353416/e842df9e-36af-4ba5-adb6-58e6213ae170)
+![image](https://github.com/imthiyas19/ODD2023-Datascience-Ex06/assets/120353416/7c8a9e9e-c950-4bd2-83f0-80ca3b06cff2)
+![image](https://github.com/imthiyas19/ODD2023-Datascience-Ex06/assets/120353416/533aa5bf-0173-4dcc-aba1-3efccea8556c)
+![image](https://github.com/imthiyas19/ODD2023-Datascience-Ex06/assets/120353416/717025d8-5bdc-4434-8257-7b3a04d10ae1)
+
+
+
 
    
 Log Transformation:
@@ -61,6 +67,8 @@ plt.title("Moderate Positive Skew")
 plt.show()
 ```
  ![image](https://github.com/imthiyas19/ODD2023-Datascience-Ex06/assets/120353416/09e329f9-5442-4b82-b723-2a9b6298bb86)
+ ![image](https://github.com/imthiyas19/ODD2023-Datascience-Ex06/assets/120353416/0a92f0c7-41cd-4bcd-9fd8-355b80955800)
+
 
 Reciprocal Transformation:
 ```
