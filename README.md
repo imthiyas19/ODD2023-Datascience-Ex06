@@ -42,6 +42,7 @@ plt.show()
 sm.qqplot(df['Moderate Negative Skew'],fit=True,line='45')
 plt.title("Moderate Negative Skew")
 plt.show()
+```
 ![image](https://github.com/imthiyas19/ODD2023-Datascience-Ex06/assets/120353416/e842df9e-36af-4ba5-adb6-58e6213ae170)
 
    
